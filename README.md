@@ -66,28 +66,6 @@ A collection of my experiments and projects while learning frontend development,
 
 ---
 
-## 📚 Currently Learning
-
-* React.js
-* TypeScript
-* Advanced JavaScript
-* Data Structures & Algorithms
-* Git & GitHub
-* Responsive Web Design
-
----
-
-## 🎯 2026 Goals
-
-* 🚀 Get a Web Development Internship
-* 🏆 Win a Hackathon
-* 💻 Build more real-world projects
-* 📈 Improve my DSA and problem-solving skills
-* 🌟 Build a strong GitHub portfolio
-* 🤝 Contribute to open-source projects
-
----
-
 ### 💡 "Build. Learn. Improve. Repeat."
 
 Thanks for visiting my profile! ⭐
